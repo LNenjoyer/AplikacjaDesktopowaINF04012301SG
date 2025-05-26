@@ -5,10 +5,11 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:AplikacjaDesktopowaINF04012301SG"
     Shell.FlyoutBehavior="Disabled"
-    Title="AplikacjaDesktopowaINF04012301SG">
+    Title="Dodaj pracownika"
+    >
 
     <ShellContent
-        Title="Home"
+ 
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
 
